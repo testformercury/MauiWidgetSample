@@ -68,7 +68,7 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
 	</ItemGroup>
 	<ItemGroup>
-		<AdditionalAppExtensions Include="/Users/udhayakumar/Library/Developer/Xcode/DerivedData/mauiappwidgetpoc-cqhevuvngckarwdptrnbfgtqdmhu/Build/Products/">
+		<AdditionalAppExtensions Include="Kindly Add your xcode project reference location here Ex:/Users/YourUserName/Library/Developer/XCode/DerivedData/YourProjectName/Build/Products/">
 			<Name>widgetExtension</Name>
 			<BuildOutput Condition="'$(Platform)' == 'iPhone'">Debug-iphoneos</BuildOutput>
 			<BuildOutput Condition="'$(Platform)' == 'iPhoneSimulator'">Debug-iphonesimulator</BuildOutput>
