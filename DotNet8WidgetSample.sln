@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8WidgetSample", "DotNet8WidgetSample.csproj", "{F38139A2-3CA1-425C-98BE-F31AC770F7E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38139A2-3CA1-425C-98BE-F31AC770F7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38139A2-3CA1-425C-98BE-F31AC770F7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38139A2-3CA1-425C-98BE-F31AC770F7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38139A2-3CA1-425C-98BE-F31AC770F7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4E36A96-69BC-4717-9731-B08051F81DD2}
+	EndGlobalSection
+EndGlobal
